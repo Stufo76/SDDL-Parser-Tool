@@ -1,7 +1,10 @@
-# SDDL Parser Script
-# This script parses an SDDL (Security Descriptor Definition Language) string and translates it into a human-readable format.
-# It includes detailed information about DACL (Discretionary Access Control List) and SACL (System Access Control List).
-# Results can be saved to an output file if specified.
+# SDDL Parser Tool
+# Author: Diego Pastore (Stufo76)
+# Email: stufo76@gmail.com
+# License: GPLv3
+# Description: This script parses and translates SDDL (Security Descriptor Definition Language) strings into human-readable formats.
+#              It provides detailed analysis of DACL (Discretionary Access Control List) and SACL (System Access Control List),
+#              translating rights, audit flags, and security identifiers (SIDs) into understandable descriptions.
 
 param(
     [string]$SDDL,          # The SDDL string to parse.
