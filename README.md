@@ -66,6 +66,8 @@ This project is licensed under the [GPLv3 License](https://opensource.org/licens
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or bug fixes.
 
 ## Author
-- **Stufo76**
+- **Diego Pastore (Stufo76)**
+  - **Email**: stufo76@gmail.com
+  - **Script URL**: [SDDLParser.ps1](https://raw.githubusercontent.com/Stufo76/SDDL-Parser-Tool/refs/heads/main/SDDLParser.ps1)
 
 For any questions, issues, or suggestions, feel free to create an issue in this repository or contact the author via GitHub.
